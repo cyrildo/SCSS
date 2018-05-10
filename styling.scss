@@ -1,0 +1,27 @@
+@mixin ring($size, $color) {
+  width: $size; height: $size;
+  border-radius: 50%;
+  border-width:$size/10;
+  border-style:solid;
+  border-color:$color;
+  background: none;
+  box-shadow: $size/20 $size/20 darken($color, 30%),
+  inset $size/20 $size/20 darken($color, 30%);
+  display:inline-block;
+  vertical-align:middle;
+}
+
+.ring1 {
+  @include ring(100px, orange);
+}
+
+.ring2 {
+  @include ring(200px, yellow);
+}
+
+@for $i from 1 through 6 {
+  .listring:nth-child(#{$i}) {
+    @include ring(100px , grey);
+    margin-left:-55px;
+  }
+}

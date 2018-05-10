@@ -1,0 +1,38 @@
+.navbar-custom {
+    background: orange  !important;
+    color: white !important;
+}
+
+.m2font {
+    color: orange;
+    font-family: mysFont;
+    font-size-adjust: 10vw;
+}
+
+footer {
+    background-color: orange;
+    padding: 30px;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(anicm.ttf);
+}
+
+div {
+    font-family: myFirstFont;
+}
+
+@font-face {
+    font-family: mysFont;
+    src: url(tngan.ttf);
+}
+
+.row {
+    text-align: center;
+}
+
+.center {
+    display:inline-block;
+    vertical-align: middle;
+}
