@@ -21,7 +21,10 @@
 
 @for $i from 1 through 6 {
   .listring:nth-child(#{$i}) {
-    @include ring(100px , grey);
+    @include ring (
+       $size:(($i*10)+100px),
+       $color:grey
+    );
     margin-left:-55px;
   }
-}
+}}

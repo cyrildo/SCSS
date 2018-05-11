@@ -25,84 +25,84 @@
 }
 
 .listring:nth-child(1) {
-    width: 100px;
-    height: 100px;
+    width: 110px;
+    height: 110px;
     border-radius: 50%;
-    border-width: 10px;
+    border-width: 11px;
     border-style: solid;
     border-color: grey;
     background: none;
-    box-shadow: 5px 5px #343434, inset 5px 5px #343434;
+    box-shadow: 5.5px 5.5px #343434, inset 5.5px 5.5px #343434;
     display: inline-block;
     vertical-align: middle;
     margin-left: -55px;
 }
 
 .listring:nth-child(2) {
-    width: 110px;
-    height: 110px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
-    border-width: 10px;
+    border-width: 12px;
     border-style: solid;
     border-color: grey;
     background: none;
-    box-shadow: 5px 5px #343434, inset 5px 5px #343434;
+    box-shadow: 6px 6px #343434, inset 6px 6px #343434;
     display: inline-block;
     vertical-align: middle;
     margin-left: -55px;
 }
 
 .listring:nth-child(3) {
-    width: 120px;
-    height: 120px;
+    width: 130px;
+    height: 130px;
     border-radius: 50%;
-    border-width: 10px;
+    border-width: 13px;
     border-style: solid;
     border-color: grey;
     background: none;
-    box-shadow: 5px 5px #343434, inset 5px 5px #343434;
+    box-shadow: 6.5px 6.5px #343434, inset 6.5px 6.5px #343434;
     display: inline-block;
     vertical-align: middle;
     margin-left: -55px;
 }
 
 .listring:nth-child(4) {
-    width: 130px;
-    height: 130px;
+    width: 140px;
+    height: 140px;
     border-radius: 50%;
-    border-width: 10px;
+    border-width: 14px;
     border-style: solid;
     border-color: grey;
     background: none;
-    box-shadow: 5px 5px #343434, inset 5px 5px #343434;
+    box-shadow: 7px 7px #343434, inset 7px 7px #343434;
     display: inline-block;
     vertical-align: middle;
     margin-left: -55px;
 }
 
 .listring:nth-child(5) {
-    width: 140px;
-    height: 140px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
-    border-width: 10px;
+    border-width: 15px;
     border-style: solid;
     border-color: grey;
     background: none;
-    box-shadow: 5px 5px #343434, inset 5px 5px #343434;
+    box-shadow: 7.5px 7.5px #343434, inset 7.5px 7.5px #343434;
     display: inline-block;
     vertical-align: middle;
     margin-left: -55px;
 }
 
 .listring:nth-child(6) {
-    width: 150px;
-    height: 150px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
-    border-width: 10px;
+    border-width: 16px;
     border-style: solid;
     border-color: grey;
     background: none;
-    box-shadow: 5px 5px #343434, inset 5px 5px #343434;
+    box-shadow: 8px 8px #343434, inset 8px 8px #343434;
     display: inline-block;
     vertical-align: middle;
     margin-left: -55px;
